@@ -1,0 +1,12 @@
+{
+  "name": "claude-projects-crew",
+  "description": "Skills for working with Claude Code Projects (beta) and cloud sessions",
+  "owner": { "name": "207studio" },
+  "plugins": [
+    {
+      "name": "claude-projects-crew",
+      "source": "./",
+      "description": "project-handoff, portable-env, integration-review"
+    }
+  ]
+}

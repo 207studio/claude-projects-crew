@@ -1,0 +1,8 @@
+{
+  "name": "claude-projects-crew",
+  "version": "0.1.0",
+  "description": "Skills for Claude Code Projects (beta) and cloud sessions: repository handoff notes, portable environment audit, and integration review with claim verification.",
+  "author": { "name": "207studio" },
+  "license": "MIT",
+  "keywords": ["projects", "cloud-sessions", "handoff", "code-review", "subagents"]
+}
